@@ -323,7 +323,7 @@ sms-spam-detector/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sms-spam-detector.git
+git clone https://github.com/mirukyilikal/sms-spam-detector.git
 ```
 
 Move into the project directory:
